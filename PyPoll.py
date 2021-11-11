@@ -1,4 +1,4 @@
-# The code will process "election_results.csv" file and perform the followin;
+# This code will process "election_results.csv" file and perform the followin;
 # 1. The total number of votes cast
 # 2. A complete list of candidates who received votes.
 # 3. The percentage of votes each candidate won.
