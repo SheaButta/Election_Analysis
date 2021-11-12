@@ -5,18 +5,23 @@ import os
 file_to_load = os.path.join("Resources", "election_results.csv")
 # Assign a variable to save the file to a path.
 file_to_save = os.path.join("analysis", "election_analysis.txt")
+
 # Initialize a total vote counter.
 total_votes = 0
+
 # Candidate options and candidate votes
 candidate_options = []
 candidate_votes = {}
+
 # Track the winning candidate, vote count, and percentage.
 winning_candidate = ""
 winning_count = 0
 winning_percentage = 0
+
 # Open the election results and read the file.
 with open(file_to_load) as election_data:
     file_reader = csv.reader(election_data)
+
     # Read the header row.
     headers = next(file_reader)
     # Print each row in the CSV file.
@@ -76,3 +81,4 @@ with open(file_to_save, "w") as txt_file:
 
     print(winning_candidate_summary)
     txt_file.write(winning_candidate_summary)
+    
