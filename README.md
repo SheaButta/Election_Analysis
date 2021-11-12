@@ -5,7 +5,7 @@ A Colorado Board of Elections employee has identified the below tasks that need 
 delivered a CSV file for me to perform the analysis.  The analysis followed the basic process of data analysis;
  - Determine the number of rows and columns.
  - Data types used.
- - Is the data readable
+ - Is the data readable?
 
 1. Calculate the total number of votes cast.
 2. Generate a complete list of candidates who received votes.
