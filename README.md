@@ -14,7 +14,7 @@ delivered a CSV file for me to perform the analysis.  The analysis followed the 
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-Dataset: [Election Results](https://github.com/SheaButta/Election_Analysis/blob/main/Resources/election_results.csv)
+Data source: [Election Results Data](https://github.com/SheaButta/Election_Analysis/blob/main/Resources/election_results.csv)
 
 - Software Used: Python 3.10 (64-bit), Visual Studio Code 1.62
 
@@ -34,7 +34,6 @@ The analysis of the election illustrate the following:
   - Diane DeGette
   - Diane DeGette received 73.8% of the vote and 272,892 number of votes.
 
-The final analysis were captured in the below output file:
-[Election Analysis](https://github.com/SheaButta/Election_Analysis/blob/main/analysis/election_analysis.txt)
+The final analysis: [Election Analysis](https://github.com/SheaButta/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 
