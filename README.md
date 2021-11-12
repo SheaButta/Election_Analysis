@@ -15,6 +15,8 @@ delivered a CSV file for me to perform the analysis.  The analysis followed the 
 
 ## Resources
 - Data Source: election_results.csv
+#- Dataset: [](https://github.com/SheaButta/stock-analysis/blob/main/VBA_Challenge.xlsm)
+
 - Software Used: Python 3.10 (64-bit), Visual Studio Code 1.62
 
 ## Summary
@@ -32,4 +34,8 @@ The analysis of the election illustrate the following:
 - The winner of the election was:
   - Diane DeGette
   - Diane DeGette received 73.8% of the vote and 272,892 number of votes.
+
+The results were capture in a results file named
+#[Election Results](https://github.com/SheaButta/stock-analysis/blob/main/VBA_Challenge.xlsm)
+
 
