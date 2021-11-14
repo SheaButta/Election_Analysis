@@ -31,7 +31,8 @@ The below bullets will describe the results of election.
       - 369,711
       - Related code Blocks:  While the source file, election_results.csv, the code counted each vote and assigned that number to a variable named "total_votes".
         Example:
-                # Read the csv and convert it into a list of dictionaries
+        
+                #Read the csv and convert it into a list of dictionaries
                 with open(file_to_load) as election_data:
                     reader = csv.reader(election_data)
 
