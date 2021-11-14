@@ -30,14 +30,15 @@ The below bullets will describe the results of election.
   - Number of votes cast in this congressional election:
       - 369,711
       - Related code Blocks:  While the source file, election_results.csv, the code counted each vote and assigned that number to a variable named "total_votes".
-        Example:
+        
+        Code Example:
         
                 #Read the csv and convert it into a list of dictionaries
                 with open(file_to_load) as election_data:
                     reader = csv.reader(election_data)
 
                         #Add to the total vote count
-                        ***total_votes = total_votes + 1***
+                        **total_votes = total_votes + 1**
         
 
   - Number of votes and the percentage of the total votes for each county:
