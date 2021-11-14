@@ -38,15 +38,32 @@ The below bullets will describe the results of election.
                     reader = csv.reader(election_data)
 
                         #Add to the total vote count
-                        __total_votes = total_votes + 1__
-        
+                        total_votes = total_votes + 1
 
   - Number of votes and the percentage of the total votes for each county:
-      - 
+  
+      - County Votes:
+          Jefferson: Jefferson county received 10.5% of the vote and 38,855 number of votes.
+          Denver: Denver county received 82.8% of the vote and 306,055 number of votes.
+          Arapahoe: Arapahoe county received 6.7% of the vote and 24,801 number of votes.
+  
+  - County with the largest number of votes:
+      - Denver: Denver county received 306,055 total votes which was 82.8% of the total votes.
+      
+  - Number of votes and the percentage of the total votes for each candidate:
+      - Candidate Votes:
+        Charles Casper Stockham: Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+        Diana DeGette: Diane DeGette received 73.8% of the vote and 272,892 number of votes.
+        Raymon Anthony Doane: Raymon Anthony Doane received 3.1% of the votes and 11,606 number of votes.
+
+  - Winner of the election:
+    Diana DeGette: Diane DeGette received 73.8% of the vote and 272,892 number of votes.
+    
+    All the final results were illustrated in the final analysis report: [Election Analysis](https://github.com/SheaButta/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 ## Summary
 The analysis of the election illustrate the following:
-- There were 369,711 votes cast in this election.
+- There were 369,711 votes cast in this election and three (3) counties that participated.
 - The candidates include:
   - Charles Casper Stockham
   - Diane DeGette
@@ -60,6 +77,6 @@ The analysis of the election illustrate the following:
   - Diane DeGette
   - Diane DeGette received 73.8% of the vote and 272,892 number of votes.
 
-The final analysis: [Election Analysis](https://github.com/SheaButta/Election_Analysis/blob/main/analysis/election_analysis.txt)
+
 
 
