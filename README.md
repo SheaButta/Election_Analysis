@@ -59,7 +59,7 @@ The below bullets will describe the results of election.
   - Winner of the election:
     - Diana DeGette: Diane DeGette received 73.8% of the vote and 272,892 number of votes.
     
-    All the final results were illustrated in the final analysis report: [Election Analysis](https://github.com/SheaButta/Election_Analysis/blob/main/analysis/election_analysis.txt)
+    All the final results were illustrated in the final analysis report: [Election Analysis](https://github.com/SheaButta/Election_Analysis/blob/main/analysis/election_results.txt)
 
 ## Summary
 The analysis of the election illustrate the following:
