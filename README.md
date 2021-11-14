@@ -3,10 +3,11 @@
 ## Overview
 A Colorado Board of Elections employee has identified the below tasks that need to be completed to assist with auditing a recent local election. The employee 
 delivered a CSV file for me to perform the analysis.  The analysis followed the basic process of data analysis;
- - Determine the number of rows and columns.
- - Data types used.
- - Is the data readable?
+   - Determine the number of rows and columns.
+   - Data types used.
+   - Is the data readable?
 
+**Colorado Board Task List:**
 1. Calculate the total number of votes cast.
 2. Generate a complete list of candidates who received votes.
 3. Calculate the percentage of votes each candidate won.
