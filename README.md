@@ -38,7 +38,7 @@ The below bullets will describe the results of election.
                     reader = csv.reader(election_data)
 
                         #Add to the total vote count
-                        **total_votes = total_votes + 1**
+                        __total_votes = total_votes + 1__
         
 
   - Number of votes and the percentage of the total votes for each county:
